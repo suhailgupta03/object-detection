@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-images</folder>
+	<folder>test</folder>
 	<filename>google-france-lobby-1339596677.jpg</filename>
-	<path>/home/suhail/python/object-detection-tests/test-images/google-france-lobby-1339596677.jpg</path>
+	<path>/home/suhail/python/object-detection-tests/images/test/google-france-lobby-1339596677.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>141</xmin>
+			<xmin>139</xmin>
 			<ymin>82</ymin>
-			<xmax>177</xmax>
-			<ymax>100</ymax>
+			<xmax>175</xmax>
+			<ymax>97</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>418</xmin>
 			<ymin>139</ymin>
-			<xmax>464</xmax>
-			<ymax>155</ymax>
+			<xmax>460</xmax>
+			<ymax>158</ymax>
 		</bndbox>
 	</object>
 </annotation>

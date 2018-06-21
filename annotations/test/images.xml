@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-images</folder>
+	<folder>test</folder>
 	<filename>images.jpeg</filename>
-	<path>/home/suhail/python/object-detection-tests/test-images/images.jpeg</path>
+	<path>/home/suhail/python/object-detection-tests/images/test/images.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>83</ymin>
-			<xmax>146</xmax>
-			<ymax>102</ymax>
+			<xmin>125</xmin>
+			<ymin>82</ymin>
+			<xmax>147</xmax>
+			<ymax>101</ymax>
 		</bndbox>
 	</object>
 </annotation>

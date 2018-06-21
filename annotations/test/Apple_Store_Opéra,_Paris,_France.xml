@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-images</folder>
+	<folder>test</folder>
 	<filename>Apple_Store_Opéra,_Paris,_France.jpg</filename>
-	<path>/home/suhail/python/object-detection-tests/test-images/Apple_Store_Opéra,_Paris,_France.jpg</path>
+	<path>/home/suhail/python/object-detection-tests/images/test/Apple_Store_Opéra,_Paris,_France.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
+			<xmin>281</xmin>
 			<ymin>322</ymin>
-			<xmax>331</xmax>
-			<ymax>378</ymax>
+			<xmax>333</xmax>
+			<ymax>380</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>661</xmin>
-			<ymin>198</ymin>
-			<xmax>703</xmax>
-			<ymax>253</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>apple</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>701</xmin>
-			<ymin>410</ymin>
-			<xmax>725</xmax>
-			<ymax>440</ymax>
+			<xmin>651</xmin>
+			<ymin>192</ymin>
+			<xmax>710</xmax>
+			<ymax>252</ymax>
 		</bndbox>
 	</object>
 </annotation>

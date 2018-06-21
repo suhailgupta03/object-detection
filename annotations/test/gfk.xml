@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-images</folder>
-	<filename>google-kLGF--621x414@LiveMint.JPG</filename>
-	<path>/home/suhail/python/object-detection-tests/test-images/google-kLGF--621x414@LiveMint.JPG</path>
+	<folder>test</folder>
+	<filename>gfk.jpg</filename>
+	<path>/home/suhail/python/object-detection-tests/images/test/gfk.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>296</xmin>
-			<ymin>54</ymin>
-			<xmax>587</xmax>
-			<ymax>258</ymax>
+			<xmin>46</xmin>
+			<ymin>191</ymin>
+			<xmax>195</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

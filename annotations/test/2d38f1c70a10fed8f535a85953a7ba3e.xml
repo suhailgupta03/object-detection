@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test-images</folder>
+	<folder>test</folder>
 	<filename>2d38f1c70a10fed8f535a85953a7ba3e.jpg</filename>
-	<path>/home/suhail/python/object-detection-tests/test-images/2d38f1c70a10fed8f535a85953a7ba3e.jpg</path>
+	<path>/home/suhail/python/object-detection-tests/images/test/2d38f1c70a10fed8f535a85953a7ba3e.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>499</xmin>
+			<xmin>504</xmin>
 			<ymin>489</ymin>
-			<xmax>539</xmax>
+			<xmax>543</xmax>
 			<ymax>529</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>786</xmin>
+			<xmin>781</xmin>
 			<ymin>491</ymin>
-			<xmax>817</xmax>
-			<ymax>529</ymax>
+			<xmax>822</xmax>
+			<ymax>532</ymax>
 		</bndbox>
 	</object>
 </annotation>
