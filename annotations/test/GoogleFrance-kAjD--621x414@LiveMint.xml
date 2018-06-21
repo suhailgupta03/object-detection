@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test-images</folder>
+	<filename>GoogleFrance-kAjD--621x414@LiveMint.jpg</filename>
+	<path>/home/suhail/python/object-detection-tests/test-images/GoogleFrance-kAjD--621x414@LiveMint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>184</ymin>
+			<xmax>187</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

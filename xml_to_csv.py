@@ -27,9 +27,9 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'annotations')
+    image_path = os.path.join(os.getcwd(), 'annotations', 'test')
     xml_df = xml_to_csv(image_path)
-    xml_df.to_csv('labels.csv', index=None)
+    xml_df.to_csv('labels/test_labels.csv', index=None)
     print('Successfully converted xml to csv.')
 
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test-images</folder>
+	<filename>google-kLGF--621x414@LiveMint.JPG</filename>
+	<path>/home/suhail/python/object-detection-tests/test-images/google-kLGF--621x414@LiveMint.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>54</ymin>
+			<xmax>587</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>
