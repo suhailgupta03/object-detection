@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>Apple_Store_Opéra,_Paris,_France.jpg</filename>
-	<path>/home/suhail/python/object-detection-tests/images/test/Apple_Store_Opéra,_Paris,_France.jpg</path>
+	<filename>opera.jpg</filename>
+	<path>/home/suhail/python/object-detection-tests/images/test/opera.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>281</xmin>
-			<ymin>322</ymin>
-			<xmax>333</xmax>
-			<ymax>380</ymax>
+			<xmin>280</xmin>
+			<ymin>321</ymin>
+			<xmax>335</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>651</xmin>
-			<ymin>192</ymin>
+			<xmin>643</xmin>
+			<ymin>188</ymin>
 			<xmax>710</xmax>
 			<ymax>252</ymax>
 		</bndbox>
