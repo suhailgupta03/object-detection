@@ -1,0 +1,26 @@
+<annotation>
+	<folder>logo detection images</folder>
+	<filename>main-qimg-5a0556b6cc50c5afbf8819e614961713.png</filename>
+	<path>/home/suhail/python/logo detection images/main-qimg-5a0556b6cc50c5afbf8819e614961713.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>5</ymin>
+			<xmax>322</xmax>
+			<ymax>29</ymax>
+		</bndbox>
+	</object>
+</annotation>

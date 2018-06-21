@@ -1,0 +1,38 @@
+<annotation>
+	<folder>logo detection images</folder>
+	<filename>220px-WWDC_2011_Moscone_West_Exterior.jpg</filename>
+	<path>/home/suhail/python/logo detection images/220px-WWDC_2011_Moscone_West_Exterior.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>50</ymin>
+			<xmax>96</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>47</ymin>
+			<xmax>150</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

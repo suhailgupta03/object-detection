@@ -1,0 +1,38 @@
+<annotation>
+	<folder>logo detection images</folder>
+	<filename>Google_Pittsburgh_1.jpg</filename>
+	<path>/home/suhail/python/logo detection images/Google_Pittsburgh_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1480</width>
+		<height>894</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>117</ymin>
+			<xmax>311</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>google</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>639</ymin>
+			<xmax>398</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>
